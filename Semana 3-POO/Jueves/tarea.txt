@@ -1,0 +1,9 @@
+Para la clase Fecha
+* establecer las validaciones en los sets
+* modificar el cargar de manera tal que las validaciones de los sets sean utilizadas
+al momento de cargar los objetos mediante el método Cargar()
+
+* Agregar un constructor que asigne la fecha del día como valor por omisión para los
+objetos.
+
+* Agregar una opción del mostrar que muestre el mes en letras (Enero, Febrero, ...)
